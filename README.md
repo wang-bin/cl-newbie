@@ -1,0 +1,4 @@
+cl-newbie
+=========
+
+OpenCL study
